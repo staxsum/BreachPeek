@@ -8,7 +8,7 @@ This tool is for authorized security research only. Using this tool to access ac
 
 ## What it does
 
-BreachPeek searches through aggregated breach data (3.2B+ records) to check if credentials have been compromised in known data breaches. It uses rate-limited API calls and displays results through an CLI.
+BreachPeek searches through aggregated breach data (3.2B+ records) to check if credentials have been compromised in known data breaches. It uses API calls and displays results through an CLI.
 
 ## Requirements
 
@@ -70,7 +70,7 @@ Unauthorized access to computer systems is a crime. If you don't have authorizat
 If you discover exposed credentials:
 - Do not attempt to access the accounts
 - Notify affected parties through proper channels
-- Recommend password changes and two-factor authentication
+- Recommend password changes and 2FA
 - Handle sensitive information appropriately
 
 ## API Details
