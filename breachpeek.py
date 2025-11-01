@@ -3,7 +3,6 @@
 BreachPeek - Security Research At Scale
 Search the world's largest dataset of leaked passwords
 
-Author: stax
 DISCLAIMER: For authorized security research only. Unauthorized access to systems or accounts is illegal. This software is provided "AS IS" without warranty. Users assume all responsibility and agree to use only for their own credentials or with explicit authorization. The author is not liable for any damages or misuse. Users must comply with all applicable laws including CFAA 18 U.S.C. § 1030 and GDPR. By using this software you agree to these terms.
 """
 
@@ -267,3 +266,4 @@ def main():
 if __name__ == '__main__':
 
     main()
+
