@@ -1,6 +1,10 @@
 # BreachPeek
-
 A CLI tool for searching leaked credential databases. Intended for authorized security research and credential monitoring.
+
+Search the world's largest dataset of leaked passwords
+In February of 2021, the largest dataset of leaked credentials (emails, usernames, and passwords) was leaked to the public. It was the largest data leak of all time, containing over 3.2 billion credentials combined across from various other data breaches over the years from services such as Netflix, LinkedIn and many others. The purpose of this tool is to make that massive dataset of leaked usernames and passwords easily searchable, and to encourage better security practices by giving people an ability to check if their credentials were leaked and thus exposed to hackers.
+
+If you find yourself on this list - change your password immediately, and always enable two factor authentication whenever possible. Your searches are not logged nor ever stored.
 
 ## Warning
 
@@ -16,8 +20,8 @@ BreachPeek searches through aggregated breach data (3.2B+ records) to check if c
 - `requests` library
 
 ## Installation
-```bash
 download or clone this repo
+```bash
 cd breachpeek
 python3 -m pip install requests
 ```
